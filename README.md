@@ -24,7 +24,7 @@ Designed with a clean UI/UX, includes search functionality, and works across dev
 
 
 ## 📸 Preview
-![Blog_Website Screenshot](weather.PNG)
+![Blog_Website Screenshot](blog_website.PNG)
 
 
 ## 🛠️ Tech Stack
