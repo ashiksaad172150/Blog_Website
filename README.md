@@ -14,7 +14,6 @@ Designed with a clean UI/UX, includes search functionality, and works across dev
 - Displays:
   - 🌡 Home
   - 🌤 About
-  - 💧 Humidity
   - 💨 Archives
   - 🌡 Blog Posts
   - 🕒 Contact
