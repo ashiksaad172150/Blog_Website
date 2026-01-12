@@ -21,10 +21,10 @@ Designed with a clean UI/UX, includes search functionality, and works across dev
 - Animated UI updates for a smooth experience
 - Footer with **GitHub** **Reddit** **X** and **Gmail** contact icons
 
-
+---
 ## 📸 Preview
-![Blog_Website Screenshot](blog_website.PNG)
-
+![Blog_Website Screenshot]([blog_website.PNG](https://github.com/ashiksaad172150/Blog_Website/blob/5d74931b3a04fe161b367aae6628e140224f3ef5/ataglance.png))
+---
 
 ## 🛠️ Tech Stack
 - **HTML5** – Structure
