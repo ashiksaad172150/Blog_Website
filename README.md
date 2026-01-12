@@ -6,7 +6,7 @@ A modern, responsive **Blog_Project Website** built with **HTML, CSS, and JavaSc
 Designed with a clean UI/UX, includes search functionality, and works across devices
 
 ---
-[🔗Live Website: ]([https://ashiksaad.github.io/Blog_Website/](https://ashiksaad172150.github.io/Blog_Website/))
+[🔗Live Website:] (https://ashiksaad172150.github.io/Blog_Website/)
 
 ---
 ## 🚀 Features
