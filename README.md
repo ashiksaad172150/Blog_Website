@@ -19,7 +19,7 @@ Designed with a clean UI/UX, includes search functionality, and works across dev
   - 🕒 Contact
 - Fully **responsive** design (mobile, tablet, desktop)
 - Animated UI updates for a smooth experience
-- Footer with **GitHub** **Reddit** **X** and **Gmail** contact icons
+- Footer with **GitHub**,**Reddit**,**X** and **Gmail** contact icons
 
 
 ## 📸 Preview
